@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "Wiremod E2 Addons Pack"
+	"version"     "1.0"
+	"author_name" "Various"
+	"author_url"  "N/A"
+	"info"        "Wire E2 Pack"
+	"override"    "0"
+}

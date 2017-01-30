@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"Space Combat"
+	"version"		"Nobody knows now"
+	"up_date"		"N/A"
+	"author_name"		"Zup (Edited By HellBoy)"
+	"author_email"		""
+	"author_url"		""
+	"info"			""
+}
